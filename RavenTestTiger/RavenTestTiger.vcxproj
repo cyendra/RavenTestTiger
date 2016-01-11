@@ -118,6 +118,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="TestTiger.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestTiger.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
